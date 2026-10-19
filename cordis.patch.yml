@@ -1,0 +1,5 @@
+# dsh-wechat-daily bundle patch: mounts the Host half that owns decryption,
+# ranking, scheduling and the report routes, plus the Settings page.
+- insert:
+    - id: dsh-wechat-daily
+      name: dsh-wechat-daily

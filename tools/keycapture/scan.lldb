@@ -1,0 +1,3 @@
+# Run from this directory: lldb -b -s scan.lldb
+command script import scan.py
+wechat_capture

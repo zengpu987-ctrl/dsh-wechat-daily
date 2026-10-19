@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "WeChat Daily Report",
+    "description": "Reads the local WeChat database read-only and turns each day into a report: what needs you, what is worth a look, and what to ignore."
+  }
+}

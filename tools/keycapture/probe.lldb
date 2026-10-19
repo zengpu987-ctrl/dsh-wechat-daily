@@ -1,0 +1,5 @@
+script import lldb
+script p = debugger.GetSelectedTarget().GetProcess()
+script print("ATTACH_OK pid=%d state=%s" % (p.GetProcessID(), p.GetState()))
+detach
+quit

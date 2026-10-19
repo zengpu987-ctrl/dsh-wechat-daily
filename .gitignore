@@ -1,0 +1,24 @@
+# never commit captured keys or decrypted data
+keys.json
+state/
+*.db
+*.db-wal
+*.db-shm
+*.bin
+*.mmkv
+
+# local reports contain private conversations
+reports/
+samples/
+
+node_modules/
+.pnpm-store/
+*.log
+.DS_Store
+
+# key-capture byproducts
+captured-keys.json
+candidates.json
+analyze.json
+mem.bin*
+*.ips
