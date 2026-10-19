@@ -36,7 +36,7 @@
 前置：macOS（微信 4.x 桌面版）、Node ≥ 23.4（需要内置 `node:sqlite`）、已装 DeepSeek Harness。
 
 ```sh
-git clone https://github.com/<owner>/dsh-wechat-daily.git
+git clone https://github.com/zengpu987-ctrl/dsh-wechat-daily.git
 ```
 
 然后在 DSH 里安装这个目录：

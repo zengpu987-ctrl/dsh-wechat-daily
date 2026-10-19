@@ -53,5 +53,13 @@
   },
   "scripts": {
     "test": "node --test \"test/*.test.mjs\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengpu987-ctrl/dsh-wechat-daily.git"
+  },
+  "homepage": "https://github.com/zengpu987-ctrl/dsh-wechat-daily#readme",
+  "bugs": {
+    "url": "https://github.com/zengpu987-ctrl/dsh-wechat-daily/issues"
   }
 }
